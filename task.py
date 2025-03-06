@@ -35,6 +35,3 @@ def getAnagram(arr):
       
   # возвращение результата с приведением к массиву
   return res
-
-array = [12, "Сон", 21, "Нос"]
-print(getAnagram(array))
